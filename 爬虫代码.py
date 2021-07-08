@@ -37,21 +37,21 @@ headers = {
         'Connection': 'keep-alive',
         'Content-Type': 'application/x-www-form-urlencoded',
         'DNT': '1',
-        'Host': 'jw1.hustwenhua.net',
-        'Origin': 'http://jw1.hustwenhua.net',
+        'Host': '观察到的地址',
+        'Origin': '观察到的地址',
         'Referer': '学校教务网地址',
         'Upgrade-Insecure-Requests': '1',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66',
        }
 paramss = {
-    'gnmkdm':'N121613',
+    'gnmkdm':'观察到的参数',
     }
 params = {
     '__EVENTTARGET':'', 
     '__EVENTARGUMENT':'',
     'hidLanguage': '',
-    'ddlXN': '2020-2021',
-    'ddlXQ': '1',
+    'ddlXN': '自身选择的年数',
+    'ddlXQ': '自身选择的第几学期',
     'ddl_kcxz': '',
     'btn_xn': '',
     }
@@ -63,9 +63,9 @@ headerss = {
     'Connection': 'keep-alive',
     'Content-Type': 'application/x-www-form-urlencoded',
     'DNT': '1',
-    'Host': 'jw1.hustwenhua.net',
-    'Origin': 'http://jw1.hustwenhua.net',
-    'Referer': 'http://jw1.hustwenhua.net/(s5su4a45ptsokz45r2uz022y)/default2.aspx',
+    'Host': '观察到的地址',
+    'Origin': '观察到的地址',
+    'Referer': '观察到的地址',
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66',
     }
